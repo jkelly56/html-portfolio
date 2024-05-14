@@ -1,0 +1,19 @@
+body{
+  
+  font-family: "Roboto", sans-serif;
+}
+
+
+.background{
+  background-color: #41C9E2;
+}
+
+
+
+.profile{
+  border-radius: 50%;
+}
+
+.construction{
+  width: 100%;
+}
